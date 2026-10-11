@@ -1,6 +1,6 @@
 # XO 3D Arena
 
-![XO identity](assets/xo-logo.png)
+<img src="assets/xo-logo.png" alt="XO 3D Arena identity" width="160">
 
 A bilingual tic-tac-toe game by **Huzaifa Alahmad**, developed from his original browser-game source. A dimensional board, clear controls and quick local play. Vanilla HTML, CSS and JavaScript, with no framework or build step.
 
