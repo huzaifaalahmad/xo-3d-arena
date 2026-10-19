@@ -21,7 +21,7 @@ Open `index.html`, or serve this folder using a static server. With Python insta
 python -m http.server 8080
 ```
 
-Then open http://localhost:8080. No installation or environment variables are required. The portfolio link returns to https://eng-huzaifa-portfolio.vercel.app/.
+Then open http://localhost:8080. No installation or environment variables are required. The portfolio link returns to https://huzaifa-alahmad.pages.dev/.
 
 ## Verify
 
